@@ -2,7 +2,7 @@
 
 Usage:
 - php >= 7.1
-- php configure  --enable-pcntl --enable-sockets -with-openssl=/usr/bin/openssl
+- php configure  --enable-pcntl --enable-sockets
 - 启动server php server_for_github.php
 - 浏览器打开 127.0.0.1:9000/ 或者 127.0.0.1:9000/[a|b|c].php
 
