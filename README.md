@@ -24,6 +24,6 @@ Todo List:
   - [x] POST
   - [x] GET
 - [ ] 支持 HTTPS 协议
-- [ ] 代码重构成面向对象模式
+- [x] 代码重构成面向对象模式
 - [ ] WEB 框架
 - [x] TINY LOG
