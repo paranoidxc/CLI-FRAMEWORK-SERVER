@@ -1,4 +1,4 @@
-# CLI-FRAMEWORK-SERVER
+# TheOldHunter CLI-HTTP-SERVER-WITH-FRAMEWORK
 
 ** 实现一个基于 cli 常驻内存模式的 最小化 http 带个人 orm 和 lib 的服务框架 **
 
@@ -26,3 +26,4 @@ Todo List:
 - [ ] 支持 HTTPS 协议
 - [ ] 代码重构成面向对象模式
 - [ ] WEB 框架
+- [x] TINY LOG
