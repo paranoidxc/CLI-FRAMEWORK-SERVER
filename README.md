@@ -15,10 +15,10 @@ Usage:
   - 127.0.0.1:9000/c.php
 
 Todo List:
-- [ ] 守护进程模式运行
+- [x] 守护进程模式运行
 - [ ] 监控子进程
-- [ ] 多进程模式
-- [ ] IO复用 Select 模式
+- [x] 多进程模式
+- [x] IO复用 Select 模式
 - [ ] IO复用 EPOLL 模式
 - [x] 支持 HTTP 协议
   - [x] POST
@@ -26,4 +26,5 @@ Todo List:
 - [ ] 支持 HTTPS 协议
 - [x] 代码重构成面向对象模式
 - [ ] WEB 框架
+- [ ] 自动热更新
 - [x] TINY LOG
