@@ -27,5 +27,7 @@ Todo List:
 - [ ] 支持 HTTPS 协议
 - [x] 代码重构成面向对象模式
 - [ ] WEB 框架
-- [ ] 自动热更新
+- [x] 自动热更新
+  - [x] fswatch
+  - [x] inotify
 - [x] TINY LOG
