@@ -16,10 +16,11 @@ Usage:
 
 Todo List:
 - [x] 守护进程模式运行
-- [ ] 监控子进程
+- [x] 监控子进程
 - [x] 多进程模式
-- [x] IO复用 Select 模式
-- [ ] IO复用 EPOLL 模式
+- [ ] IO复用
+  - [x] Select 模式
+  - [ ] EPOLL 模式
 - [x] 支持 HTTP 协议
   - [x] POST
   - [x] GET
