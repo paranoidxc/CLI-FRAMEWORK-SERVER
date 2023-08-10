@@ -1,4 +1,5 @@
-# TheOldHunter CLI-HTTP-SERVER-WITH-FRAMEWORK
+# TheOldHunter 
+## CLI-HTTP-SERVER-WITH-FRAMEWORK
 
 ** 实现一个基于 cli 常驻内存模式的 最小化 http 带个人 orm 和 lib 的服务框架 **
 
@@ -20,7 +21,7 @@ Todo List:
 - [x] 多进程模式
 - [ ] IO复用
   - [x] Select 模式
-  - [ ] EPOLL 模式
+  - [x] EPOLL 模式
 - [x] 支持 HTTP 协议
   - [x] POST
   - [x] GET
