@@ -19,8 +19,8 @@ Todo List:
 - [x] 守护进程模式运行
 - [x] 监控子进程
 - [x] 多进程模式
-- [ ] IO复用
-  - [x] Select 模式
+- [x] IO复用
+  - [x] SELECT 模式
   - [x] EPOLL 模式
 - [x] 支持 HTTP 协议
   - [x] POST
@@ -28,6 +28,7 @@ Todo List:
 - [ ] 支持 HTTPS 协议
 - [x] 代码重构成面向对象模式
 - [ ] WEB 框架
+  - [ ] ROUTE
 - [x] 自动热更新
   - [x] fswatch
   - [x] inotify
