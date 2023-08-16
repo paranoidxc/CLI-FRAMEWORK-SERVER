@@ -41,8 +41,8 @@ Todo List:
   - [X] ROUTE
   - [ ] MVC
     - [x] Controller
-    - [x] VIEW
-    - [ ] MODEL 
+    - [x] View
+    - [ ] Model 
   - [ ] LIB
 - [X] 自动热更新
   - [X] fswatch
