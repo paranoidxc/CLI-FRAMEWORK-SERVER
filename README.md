@@ -13,8 +13,8 @@ Usage:
 - php -m | grep event
   1. pecl install event
   2. configure event from source code
-     1. install libevent on OS install
-     2. configure event and add event.so to php.ini file
+     1. install libevent on OS
+     2. configure install event and add event.so to php.ini file
 - 启动服务 php public/instance.php start|stop|reload
 - 浏览器打开
   - 127.0.0.1:9000/
