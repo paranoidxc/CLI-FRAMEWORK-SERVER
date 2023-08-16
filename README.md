@@ -15,7 +15,7 @@ Usage:
   2. configure event from source code
      1. install libevent on OS install
      2. configure event and add event.so to php.ini file
-- 启动服务 php public instance.php start|stop|reload
+- 启动服务 php public/instance.php start|stop|reload
 - 浏览器打开
   - 127.0.0.1:9000/
   - 127.0.0.1:9000/default/index?a=b&c=d
